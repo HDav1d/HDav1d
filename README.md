@@ -12,9 +12,6 @@
 
 
 - 🌱 I’m currently learning C++ and other programming languages
-
-- ⚡ Fun fact :- Music is the reasons to live.
-
 <br>
 
 <br>
