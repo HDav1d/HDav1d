@@ -7,10 +7,6 @@
   </p>
 
 <br>
-
-<p><img align="right" src="https://github.com/HDav1d/HDav1d/blob/main/animation_500_kxa883sd.gif" alt="HDav1d" /></p>
-
-
 - 🌱 I’m currently learning C++ and other programming languages
 <br>
 
